@@ -13,7 +13,7 @@ ROIBOUNDSPATH = './meta/roiBounds.csv'
 # Microns-per-pixel -- best use this
 # MPP of 0.25 is "standardized" at 40x using original Aperio scanners
 # MPP = None
-MPP = 0.25
+MPP = 20
 
 # If you prefer to use whatever magnification is reported
 MAG = None
